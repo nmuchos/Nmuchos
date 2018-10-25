@@ -1,0 +1,146 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nicolemuchos.com" resolutions="1x" timestamp="1540427586064">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="291189541" ref="index:contact:achievement:teaching:resume"/>
+    <file name="index.css" crc="3858299801" ref="index"/>
+    <file name="contact.css" crc="434294091" ref="contact"/>
+    <file name="achievement.css" crc="261960494" ref="achievement"/>
+    <file name="teaching.css" crc="4113623095" ref="teaching"/>
+    <file name="resume.css" crc="224035622" ref="resume"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:resume:achievement:teaching"/>
+    <file name="museutils.js" crc="46400467" ref="index:contact:resume:achievement:teaching"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:resume:achievement:teaching"/>
+    <file name="museconfig.js" crc="436936948" ref="index:contact:resume:achievement:teaching"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index:contact:resume:achievement:teaching"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:contact:resume:achievement:teaching"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:resume:achievement:teaching"/>
+    <file name="require.js" crc="85721165" ref="index:contact:resume:achievement:teaching"/>
+    <file name="webpro.js" crc="4152390327" ref="teaching"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="teaching"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="teaching"/>
+    <file name="touchswipe.js" crc="4228958816" ref="teaching"/>
+  </folder>
+  <folder name="images">
+    <file name="demuntitled-6-crop-u393.png" crc="172695939" seo="true" ref="index:contact:resume:achievement:teaching">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="achievement" alt=""/>
+    </file>
+    <file name="untitled-6.png" crc="3790710965" seo="true" ref="index:contact:resume:achievement:teaching">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="achievement" alt=""/>
+    </file>
+    <file name="pasted image 1066x200-crop-u145.jpg" crc="4156358301" seo="true" ref="index:contact:resume:achievement:teaching">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="achievement" alt=""/>
+    </file>
+    <file name="u845-4.png" crc="4025512456" ref="index:contact:resume:achievement:teaching"/>
+    <file name="u853-4.png" crc="3772710672" ref="index:contact:resume:achievement:teaching"/>
+    <file name="u875-4.png" crc="156511712" ref="index:contact:resume:achievement:teaching"/>
+    <file name="u888-4.png" crc="4039584199" ref="index:contact:resume:achievement:teaching"/>
+    <file name="u903-4.png" crc="3799676697" ref="index:contact:resume:achievement:teaching"/>
+    <file name="u353-4.png" crc="3970820228" ref="index"/>
+    <file name="thumbnail_img_5555.jpg" crc="4104100674" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u356-6.png" crc="343192731" ref="index"/>
+    <file name="untitled-8-u357.png" crc="4072234785" ref="index"/>
+    <file name="u359-15.png" crc="3761733502" ref="index"/>
+    <file name="pasted image 284x84-crop-u147.jpg" crc="3978909514" seo="true" ref="index:contact:resume:achievement:teaching">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="achievement" alt=""/>
+    </file>
+    <file name="untitled-4-crop-u185.png" crc="408890814" seo="true" ref="index:contact:resume:achievement:teaching">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="achievement" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="contact:teaching"/>
+    <file name="u792.png" crc="4253501372" ref="contact"/>
+    <file name="u792-m.png" crc="469590013" ref="contact"/>
+    <file name="untitled-8-u786.png" crc="3865796444" ref="contact"/>
+    <file name="u788-4.png" crc="167160604" ref="contact"/>
+    <file name="pasted image 650x150-crop-u789.jpg" crc="4212068250" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u791-4.png" crc="397624341" ref="contact"/>
+    <file name="u793_states.png" crc="4107640831" ref="contact"/>
+    <file name="u793_states-m.png" crc="3935757237" ref="contact"/>
+    <file name="pasted image 898x1378.jpg" crc="4059481103" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="u824-4.png" crc="420245511" ref="resume"/>
+    <file name="u705-4.png" crc="4284423984" ref="achievement"/>
+    <file name="untitled-8-u706.png" crc="476537724" ref="achievement"/>
+    <file name="image_handler.jpg" crc="79465415" seo="true" ref="achievement">
+      <caption webpage="achievement" alt=""/>
+    </file>
+    <file name="u710-10.png" crc="4254605245" ref="achievement"/>
+    <file name="untitled-1.jpg" crc="27866279" seo="true" ref="achievement">
+      <caption webpage="achievement" alt=""/>
+    </file>
+    <file name="untitled-8-u711.png" crc="4139255862" ref="achievement"/>
+    <file name="u713-7.png" crc="71882748" ref="achievement"/>
+    <file name="golf 2.jpg" crc="4110277848" seo="true" ref="achievement">
+      <caption webpage="achievement" alt=""/>
+    </file>
+    <file name="untitled-8-u718.png" crc="388568410" ref="achievement"/>
+    <file name="u720-6.png" crc="485887539" ref="achievement"/>
+    <file name="u407-4.png" crc="42378403" ref="teaching"/>
+    <file name="untitled-8-u403.png" crc="4083243359" ref="teaching"/>
+    <file name="u408-7.png" crc="4020762729" ref="teaching"/>
+    <file name="u409-6.png" crc="4100886401" ref="teaching"/>
+    <file name="pasted image 960x1280-crop-u405.jpg" crc="226795395" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="untitled-8-u411.png" crc="4183971747" ref="teaching"/>
+    <file name="u413-5.png" crc="340096836" ref="teaching"/>
+    <file name="untitled-8-u457.png" crc="4252033981" ref="teaching"/>
+    <file name="u459-6.png" crc="3901175919" ref="teaching"/>
+    <file name="untitled-8-u1363.png" crc="4264914549" ref="teaching"/>
+    <file name="thumbnail_img_6341.jpg" crc="4132129353" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="2.jpg" crc="3990915946" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="u1080-4.png" crc="3813824998" ref="teaching"/>
+    <file name="u1081-4.png" crc="3823122693" ref="teaching"/>
+    <file name="loading.gif" crc="3815509949" ref="teaching"/>
+    <file name="img_6194-crop-u1289.jpg" crc="262523905" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="thumbnail_img_6198.jpg" crc="3992757830" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="u1281-4.png" crc="3931399761" ref="teaching"/>
+    <file name="u1282-4.png" crc="4144537535" ref="teaching"/>
+    <file name="untitled-8-u663.png" crc="3920463764" ref="teaching"/>
+    <file name="u665-5.png" crc="416582202" ref="teaching"/>
+    <file name="thumbnail_img_6651.jpg" crc="3806700151" seo="true" ref="teaching">
+      <caption webpage="teaching" alt=""/>
+    </file>
+    <file name="untitled-8-u661.png" crc="76274709" ref="teaching"/>
+    <file name="u666-5.png" crc="145300237" ref="teaching"/>
+  </folder>
+  <file name="index.html" crc="3895669519" seo="true" mt="1540427503592" redirect="true"/>
+  <file name="contact.html" crc="4055829416" seo="true" mt="1540427581021" redirect="true"/>
+  <file name="resume.html" crc="4162691877" seo="true" mt="1540427503592" redirect="true"/>
+  <file name="achievement.html" crc="3838479631" seo="true" mt="1540427503592" redirect="true"/>
+  <file name="teaching.html" crc="4240280632" seo="true" mt="1540427503592" redirect="true"/>
+</manifest>
